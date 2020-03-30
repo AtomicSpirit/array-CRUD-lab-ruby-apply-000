@@ -17,8 +17,7 @@ add_element_to_start_of_array = []
 end
 
 def remove_element_from_end_of_array(array)
- arrays = remove_element_from_end_of_array(array)
-arrays.pop("arrays!")
+ remove_element_from_end_of_array.pop("arrays!")
 end
 
 def remove_element_from_start_of_array(array)
